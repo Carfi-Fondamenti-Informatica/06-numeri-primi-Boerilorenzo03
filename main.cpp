@@ -9,6 +9,6 @@ int main() {
     else {
         std::cout << "numero non primo" << std::endl;
     }
-    return 0;
+    return 0;
 }
       
