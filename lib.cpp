@@ -17,6 +17,6 @@ bool numeroprimo (int n) {
         else {
             risultato =1;
             return risultato;
-        }
-    }
+        }
+    }
 }
